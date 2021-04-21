@@ -1,6 +1,6 @@
 # Recovery Device Trees
-# S10e
-# CodeName: Beyond0qlte
+# Note 10+
+# CodeName: D2q
 
 
 This is left Blank on Purpose
