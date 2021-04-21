@@ -15,4 +15,5 @@ This is left Blank on Purpose
 
 
 
-** Each Recovery Branch will include the build script, if you want to use the build script, cut it and paste it in the root of the recovery and run it to build your recovery **
+** Each Recovery Branch will include the build script, if you want to use the build script, cut it 
+   and paste it in the root of the recovery and run it to build your recovery **
